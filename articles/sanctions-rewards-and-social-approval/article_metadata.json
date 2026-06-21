@@ -1,0 +1,33 @@
+{
+  "slug": "sanctions-rewards-and-social-approval",
+  "title": "Sanctions, Rewards, and Social Approval",
+  "series_title": "Social Norms and Behavioral Influence",
+  "repository": "social-norms-behavioral-influence-code",
+  "path": "articles/sanctions-rewards-and-social-approval/",
+  "summary": "Social consequences and norm maintenance.",
+  "status": "scaffolded",
+  "generated_at": "2026-06-21T05:37:50+00:00",
+  "standard": "sustainable-catalyst-article-folder-v2",
+  "layers": [
+    "python",
+    "r",
+    "julia",
+    "sql",
+    "haskell",
+    "rust",
+    "go",
+    "c",
+    "cpp",
+    "fortran",
+    "java",
+    "typescript",
+    "prolog",
+    "notebooks",
+    "docs",
+    "data",
+    "outputs",
+    "tests"
+  ],
+  "calculators": true,
+  "responsible_use": "Educational scaffold only; not validated operational guidance."
+}

@@ -1,0 +1,163 @@
+{
+  "repository": "social-norms-behavioral-influence-code",
+  "organization": "Content-Catalyst-LLC",
+  "series_title": "Social Norms and Behavioral Influence",
+  "kind": "article-map",
+  "description": "Companion repository for social norms, social influence, peer effects, reciprocity, cooperation, herd behavior, diffusion, norm change, and collective action.",
+  "generated_at": "2026-06-21T05:37:50+00:00",
+  "upgrade_tag": "behavioral-science-upgrade-20260621-003706",
+  "standard": "sustainable-catalyst-article-map-code-repo-v2",
+  "article_count": 21,
+  "article_root": "articles/",
+  "shared_root": "_shared/",
+  "default_article_layers": [
+    "python",
+    "r",
+    "julia",
+    "sql",
+    "haskell",
+    "rust",
+    "go",
+    "c",
+    "cpp",
+    "fortran",
+    "java",
+    "typescript",
+    "prolog",
+    "notebooks",
+    "docs",
+    "data",
+    "outputs",
+    "tests"
+  ],
+  "calculator_layer_required": true,
+  "articles": [
+    {
+      "slug": "what-are-social-norms",
+      "title": "What Are Social Norms?",
+      "summary": "A foundational article on informal expectations and behavior.",
+      "path": "articles/what-are-social-norms/"
+    },
+    {
+      "slug": "social-influence-and-human-behavior",
+      "title": "Social Influence and Human Behavior",
+      "summary": "How other people shape action and judgment.",
+      "path": "articles/social-influence-and-human-behavior/"
+    },
+    {
+      "slug": "descriptive-and-injunctive-norms",
+      "title": "Descriptive Norms and Injunctive Norms",
+      "summary": "What people do versus what people approve.",
+      "path": "articles/descriptive-and-injunctive-norms/"
+    },
+    {
+      "slug": "conformity-compliance-and-obedience",
+      "title": "Conformity, Compliance, and Obedience",
+      "summary": "Classic mechanisms of social influence.",
+      "path": "articles/conformity-compliance-and-obedience/"
+    },
+    {
+      "slug": "social-proof-and-behavioral-imitation",
+      "title": "Social Proof and Behavioral Imitation",
+      "summary": "How visible behavior becomes a cue for action.",
+      "path": "articles/social-proof-and-behavioral-imitation/"
+    },
+    {
+      "slug": "norms-as-informal-institutions",
+      "title": "Norms as Informal Institutions",
+      "summary": "Norms as rules outside formal law.",
+      "path": "articles/norms-as-informal-institutions/"
+    },
+    {
+      "slug": "how-social-norms-emerge",
+      "title": "How Social Norms Emerge",
+      "summary": "The formation of shared expectations.",
+      "path": "articles/how-social-norms-emerge/"
+    },
+    {
+      "slug": "how-norms-stabilize-behavior",
+      "title": "How Norms Stabilize Behavior",
+      "summary": "How sanctions, approval, and repetition hold behavior in place.",
+      "path": "articles/how-norms-stabilize-behavior/"
+    },
+    {
+      "slug": "sanctions-rewards-and-social-approval",
+      "title": "Sanctions, Rewards, and Social Approval",
+      "summary": "Social consequences and norm maintenance.",
+      "path": "articles/sanctions-rewards-and-social-approval/"
+    },
+    {
+      "slug": "reputation-and-social-monitoring",
+      "title": "Reputation and Social Monitoring",
+      "summary": "Visibility, credibility, and trust.",
+      "path": "articles/reputation-and-social-monitoring/"
+    },
+    {
+      "slug": "identity-and-group-based-norms",
+      "title": "Identity and Group-Based Norms",
+      "summary": "Group membership and behavioral expectation.",
+      "path": "articles/identity-and-group-based-norms/"
+    },
+    {
+      "slug": "peer-effects",
+      "title": "Peer Effects",
+      "summary": "How peers influence decisions and outcomes.",
+      "path": "articles/peer-effects/"
+    },
+    {
+      "slug": "social-comparison",
+      "title": "Social Comparison",
+      "summary": "How comparison shapes satisfaction, goals, and behavior.",
+      "path": "articles/social-comparison/"
+    },
+    {
+      "slug": "reciprocity-and-cooperation",
+      "title": "Reciprocity and Cooperation",
+      "summary": "Mutual response and collective behavior.",
+      "path": "articles/reciprocity-and-cooperation/"
+    },
+    {
+      "slug": "herd-behavior",
+      "title": "Herd Behavior",
+      "summary": "Following others under uncertainty.",
+      "path": "articles/herd-behavior/"
+    },
+    {
+      "slug": "informational-cascades",
+      "title": "Informational Cascades",
+      "summary": "When behavior spreads through observed decisions.",
+      "path": "articles/informational-cascades/"
+    },
+    {
+      "slug": "diffusion-of-behavior-through-networks",
+      "title": "Diffusion of Behavior Through Networks",
+      "summary": "How behavior spreads across social structures.",
+      "path": "articles/diffusion-of-behavior-through-networks/"
+    },
+    {
+      "slug": "changing-social-norms",
+      "title": "Changing Social Norms",
+      "summary": "How norm change happens and why it is difficult.",
+      "path": "articles/changing-social-norms/"
+    },
+    {
+      "slug": "norm-based-messaging",
+      "title": "Norm-Based Messaging",
+      "summary": "Designing communications around perceived norms.",
+      "path": "articles/norm-based-messaging/"
+    },
+    {
+      "slug": "correcting-misperceived-norms",
+      "title": "Correcting Misperceived Norms",
+      "summary": "When false beliefs about others sustain behavior.",
+      "path": "articles/correcting-misperceived-norms/"
+    },
+    {
+      "slug": "social-norms-and-sustainability",
+      "title": "Social Norms and Sustainability",
+      "summary": "Visible participation, conservation, consumption, and collective action.",
+      "path": "articles/social-norms-and-sustainability/"
+    }
+  ],
+  "responsible_use": "Educational and research-scaffolding examples only; not operational guidance without validation and ethical review."
+}

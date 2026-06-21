@@ -1,0 +1,33 @@
+{
+  "slug": "descriptive-and-injunctive-norms",
+  "title": "Descriptive Norms and Injunctive Norms",
+  "series_title": "Social Norms and Behavioral Influence",
+  "repository": "social-norms-behavioral-influence-code",
+  "path": "articles/descriptive-and-injunctive-norms/",
+  "summary": "What people do versus what people approve.",
+  "status": "scaffolded",
+  "generated_at": "2026-06-21T05:37:50+00:00",
+  "standard": "sustainable-catalyst-article-folder-v2",
+  "layers": [
+    "python",
+    "r",
+    "julia",
+    "sql",
+    "haskell",
+    "rust",
+    "go",
+    "c",
+    "cpp",
+    "fortran",
+    "java",
+    "typescript",
+    "prolog",
+    "notebooks",
+    "docs",
+    "data",
+    "outputs",
+    "tests"
+  ],
+  "calculators": true,
+  "responsible_use": "Educational scaffold only; not validated operational guidance."
+}

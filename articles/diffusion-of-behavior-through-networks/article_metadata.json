@@ -1,0 +1,33 @@
+{
+  "slug": "diffusion-of-behavior-through-networks",
+  "title": "Diffusion of Behavior Through Networks",
+  "series_title": "Social Norms and Behavioral Influence",
+  "repository": "social-norms-behavioral-influence-code",
+  "path": "articles/diffusion-of-behavior-through-networks/",
+  "summary": "How behavior spreads across social structures.",
+  "status": "scaffolded",
+  "generated_at": "2026-06-21T05:37:50+00:00",
+  "standard": "sustainable-catalyst-article-folder-v2",
+  "layers": [
+    "python",
+    "r",
+    "julia",
+    "sql",
+    "haskell",
+    "rust",
+    "go",
+    "c",
+    "cpp",
+    "fortran",
+    "java",
+    "typescript",
+    "prolog",
+    "notebooks",
+    "docs",
+    "data",
+    "outputs",
+    "tests"
+  ],
+  "calculators": true,
+  "responsible_use": "Educational scaffold only; not validated operational guidance."
+}
